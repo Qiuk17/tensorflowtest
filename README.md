@@ -1,2 +1,2 @@
 #tensorflowtest
-This is my exploration into tensorflow.
+>My exploration into TensorFlow
